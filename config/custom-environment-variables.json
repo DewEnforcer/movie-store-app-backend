@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "vidly_jwtPrivateKey",
+    "dbConn": "vidly_db"
+}
